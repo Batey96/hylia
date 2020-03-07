@@ -6,7 +6,9 @@ tags:
   - simple-post
   - blog
 ---
-![](images/demo-image-2.jpg)
+
+
+![image](images/demo-image-2.jpg "imahe")
 
 This post is scheduled for the future, specifically mid-2022. Hopefully you're still blogging by then too. Once that date ticks by, this post will automatically become published and visible.
 
